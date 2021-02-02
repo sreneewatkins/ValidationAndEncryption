@@ -1,4 +1,4 @@
-# Coding question for the assessment 11:
+# Coding question:
 
 ### Create an Encrypter class to handle input validation and encryption. 
 
